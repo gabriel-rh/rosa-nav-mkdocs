@@ -1,0 +1,1 @@
+./rosa/welcome/index.md
